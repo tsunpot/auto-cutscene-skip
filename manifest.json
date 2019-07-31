@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "f7a1ca5e3415b7448604e82538048e15a2b67fda0c86b26a78918e8c0e9c4076",
+        "config.json": "11e7ca8722b88776ccfed5d2c1afdd6cdc320d9a3f217ee571976e359262fa63",
+        "index.js": "c20844f8325c2af77ff15d539117d65efeb008313b221f81331edc9e6d6bc104",
+        "module.json": "5eedad9542f8b6a5c3d71236ce36169756f92045935c25df34e50bb992c734f4"
+    },
+    "defs": {
+        "C_END_MOVIE": 1,
+        "S_PLAY_MOVIE": 1
+    }
+}
